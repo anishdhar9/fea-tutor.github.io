@@ -1,5 +1,7 @@
 # 2D FEA Tutor
 
+Hello, World!
+
 Client-side (no backend) 2D finite element teaching tool: a direct-stiffness truss solver
 (Phase 1) extended to beam/frame elements (Phase 2), with every intermediate matrix
 inspectable — the "show your work" panel is the differentiator vs. black-box tools like
